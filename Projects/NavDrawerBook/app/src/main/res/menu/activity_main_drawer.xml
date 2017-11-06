@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/introduction"
+            android:icon="@drawable/photo1"
+            android:title="@string/introduction" />
+        <item
+            android:id="@+id/nav_chapter1"
+            android:icon="@drawable/photo11"
+            android:title="@string/chapter_1" />
+        <item
+            android:id="@+id/nav_chapter2"
+            android:icon="@drawable/photo33"
+            android:title="@string/chapter_2" />
+        <item
+            android:id="@+id/nav_chapter3"
+            android:icon="@drawable/photo57"
+            android:title="@string/chapter_3" />
+        <item
+            android:id="@+id/nav_chapter4"
+            android:icon="@drawable/photo79"
+            android:title="@string/chapter_4" />
+       <item
+            android:id="@+id/nav_chapter5"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/chapter_5" />
+       <item
+            android:id="@+id/nav_chapter6"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/chapter_6" />
+       <item
+            android:id="@+id/nav_chapter7"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/chapter_7" />
+        <item
+            android:id="@+id/nav_chapter8"
+            android:icon="@drawable/photo1"
+            android:title="@string/chapter_8" />
+        <item
+            android:id="@+id/nav_chapter9"
+            android:icon="@drawable/photo11"
+            android:title="@string/chapter_9" />
+        <item
+            android:id="@+id/nav_chapter10"
+            android:icon="@drawable/photo33"
+            android:title="@string/chapter_10" />
+        <item
+            android:id="@+id/nav_chapter11"
+            android:icon="@drawable/photo57"
+            android:title="@string/chapter_11" />
+        <item
+            android:id="@+id/nav_chapter12"
+            android:icon="@drawable/photo79"
+            android:title="@string/chapter_12" />
+        <item
+            android:id="@+id/nav_chapter13"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/chapter_13" />
+        <item
+            android:id="@+id/nav_chapter14"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/chapter_14" />
+        <item
+            android:id="@+id/nav_chapter15"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/chapter_15" />
+        <item
+            android:id="@+id/nav_chapter16"
+            android:icon="@drawable/photo11"
+            android:title="@string/chapter_16" />
+        <item
+            android:id="@+id/nav_chapter17"
+            android:icon="@drawable/photo33"
+            android:title="@string/chapter_17" />
+        <item
+            android:id="@+id/nav_chapter18"
+            android:icon="@drawable/photo57"
+            android:title="@string/chapter_18" />
+        <item
+            android:id="@+id/nav_chapter19"
+            android:icon="@drawable/photo79"
+            android:title="@string/chapter_19" />
+        <item
+            android:id="@+id/nav_chapter20"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/chapter_20" />
+        <item
+            android:id="@+id/nav_chapter21"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/chapter_21" />
+        <item
+            android:id="@+id/nav_about_author"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/about_author" />
+
+    </group>
+
+</menu>

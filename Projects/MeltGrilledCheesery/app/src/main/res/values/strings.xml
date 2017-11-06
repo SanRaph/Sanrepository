@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeltGrilledCheesery</string>
+    <string name="browse_menu">Browse Menu</string>
+    <string name="title_activity_menu_activity">menu_activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>

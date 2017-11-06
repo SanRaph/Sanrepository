@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout
+    android:weightSum="1"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_weight="0.07"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/textView6"
+        android:textSize="30dp"
+        android:text="Order Summary"/>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_weight="0.55"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/et_summary"
+        android:textSize="24dp"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_weight="0.07"
+        android:id="@+id/tv_total"
+        android:textSize="30dp"
+        android:text="Total : "/>
+
+</LinearLayout>
